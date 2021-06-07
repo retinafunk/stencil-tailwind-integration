@@ -2,14 +2,12 @@
 
 # Stencil and Tailwind CSS integration
 
-Map component based on
+With this you can use Stencil with Tailwind the normal Tailwind way, just add calasses to your JSX in render() 
+
+<div class="w-full text-xl" > 
 
 ## Getting Started
 
-To use the component, you first need a Google API key, you can get it from here:
-https://console.cloud.google.com/google/maps-apis
-
-Then you can test the component by adding the API key to the demo code found at `src/index.html` and run:
 
 ```bash
 yarn 
